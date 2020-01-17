@@ -30,14 +30,14 @@ body {
 .box2 {
   background-color: #00b7b4;
   border-bottom-left-radius: 0.5rem;
-  padding: 1rem 3.12rem 3rem 0;
+  padding: 1rem 3.12rem 2rem 0;
 }
 
 .box3 {
   background-color: #00c2c0;
   border-bottom-right-radius: 0.5rem;
-  padding: 1rem 8.95rem 2rem 0;
-  line-height: 1.3rem;
+  padding: 1rem 7.9rem 1rem 0;
+  line-height: 1.2rem;
 }
 
 .box3 h3 { padding-left: 2.5rem; }
